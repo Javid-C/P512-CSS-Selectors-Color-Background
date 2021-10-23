@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* .text {
+    color: aqua;
+} */
+
+
+/* .paragraph.wrap {
+    color: red;
+} */
+
+
+/* .wrapper .text {
+    color: blue;
+}
+
+#text {
+    color: blueviolet;
+} */
+
+
+/* 
+p {
+    color: chocolate;
+} */
+
+
+/* p.paragraph {
+    color: cornflowerblue;
+} */
+
+
+/* 
+div,
+p {
+    color: red;
+} */
+
+
+/* div p {
+    color: red;
+} */
+
+
+/* div>p {
+    color: green;
+} */
+
+
+/* div+p {
+    color: hotpink;
+} */
+
+
+/* .tilde~p {
+    color: gold;
+} */
+
+
+/* [class] {
+    color: blue;
+} */
+
+
+/* [id] {
+    color: red;
+} */
+
+
+/* [class=paragraph] {
+    color: indigo;
+} */
+
+
+/* [class~=paragraph] {
+    color: lawngreen;
+} */
+
+
+/* p[class^=wrap] {
+    color: blue;
+} */
+
+
+/* p[class$=wrap] {
+    color: lightcoral;
+} */
+
+
+/* p[class*=paragraph] {
+    color: aqua;
+} */
+
+
+/* a:active {
+    color: yellow;
+} */
+
+
+/* #text::after {
+    content: 'This is after selector';
+}
+
+#text::before {
+    content: 'This is before selector';
+} */
+
+
+/* p:first-child {
+    color: yellowgreen;
+} */
+
+
+/* p::first-letter {
+    font-size: 50px;
+} */
+
+
+/* p::first-line {
+    background-color: aqua;
+} */
+
+
+/* 
+input:focus {
+    background-color: rgb(238, 238, 238);
+    color: red;
+} */
+
+
+/* p:hover {
+    background-color: coral;
+    color: white;
+} */
+
+
+/* 
+p:last-child {
+    color: darkgoldenrod;
+} */
+
+
+/* p:not(.paragraph) {
+    color: red;
+} */
+
+p:nth-child(odd) {
+    color: red;
+}

@@ -1,0 +1,26 @@
+/* 0-9,a,b,c,d,e,f 3,6 */
+
+.text {
+    /* color: #809B00; */
+    /* color: rgb(96, 0, 160); */
+    /* 0-255 */
+    /* color: rgb(9, 255, 0); */
+    /* background-color: salmon; */
+}
+
+.background {
+    width: 50%;
+    height: 520px;
+    padding: 50px;
+    border: 10px black dashed;
+    /* background-color: salmon;
+    background-image: url(https://mymodernmet.com/wp/wp-content/uploads/2019/07/will-burrard-lucas-beetlecam-23-1024x683.jpg);
+    background-repeat: no-repeat; */
+    /* background-position: 25% 0%; */
+    /* background-size: 400px; */
+    /* background-attachment: fixed; */
+    color: red;
+    /* background-origin: content-box;
+    background-clip: content-box; */
+    background: salmon url(https://mymodernmet.com/wp/wp-content/uploads/2019/07/will-burrard-lucas-beetlecam-23-1024x683.jpg) repeat 25% 0%/400px content-box;
+}
